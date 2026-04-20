@@ -32,6 +32,6 @@ Custom ResNet built from scratch to classify brain MRI scans into 4 categories. 
 
 ---
 
-### 📫 Contact Me
-- 💼 [LinkedIn](linkedin.com/in/souha-ben-elaam)
-- 📧 souhabelaam8@gmail.com
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/souha-ben-elaam-716a24234/)
+- [souhabelaam8@gmail.com](mailto:souhabelaam8@gmail.com)
